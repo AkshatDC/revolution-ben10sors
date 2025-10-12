@@ -1,0 +1,34 @@
+[
+  {
+    "id": "-ObIR0fa-jeXHoA364Qd",
+    "role": "user",
+    "user_id": "07a31832-361e-443c-b2f4-eb27d6cd0d03",
+    "username": "Anonymous",
+    "content": "hello all",
+    "timestamp": 1760189105.724633
+  },
+  {
+    "id": "-ObIR1316cB2Y0bPBmvs",
+    "role": "system",
+    "user_id": "1d224637-72a9-49b5-b949-f2527bb15513",
+    "username": "KB-Bot",
+    "content": "💡 KB Results:\n- Python is used for AI, ML, and automation.\n- Python is used for AI, ML, and automation.\n- *   User initiated the conversation with a greeting.",
+    "timestamp": 1760189107.262423
+  },
+  {
+    "id": "-ObIR7IWjiRD16xPQss8",
+    "role": "user",
+    "user_id": "07a31832-361e-443c-b2f4-eb27d6cd0d03",
+    "username": "Anonymous",
+    "content": "i live in maharashtra",
+    "timestamp": 1760189132.846262
+  },
+  {
+    "id": "-ObIR7VMLxtfzVRnA4pk",
+    "role": "system",
+    "user_id": "1d224637-72a9-49b5-b949-f2527bb15513",
+    "username": "KB-Bot",
+    "content": "💡 KB Results:\n- Akshat lives in Gujarat, India.\n- Akshat lives in Gujarat, India.\n- Streamlit is great for building interactive web apps.",
+    "timestamp": 1760189133.689243
+  }
+]
