@@ -1,0 +1,39 @@
+# Core Web Frameworks
+streamlit==1.28.0
+fastapi==0.104.1
+uvicorn[standard]==0.24.0
+
+# HTTP & Async
+httpx==0.25.0
+requests==2.31.0
+websockets==12.0
+
+# Firebase
+firebase-admin==6.2.0
+
+# AI & ML
+google-generativeai==0.3.0
+
+# Authentication & Security
+pyjwt==2.8.0
+bcrypt==4.1.1
+python-jose[cryptography]==3.3.0
+
+# Data Processing & Validation
+python-dotenv==1.0.0
+pydantic==2.4.2
+python-multipart==0.0.6
+
+# Data Generation & Testing
+faker==20.1.0
+
+# Visualization & Charts
+plotly==5.18.0
+pandas==2.1.3
+numpy==1.26.2
+
+# Rate Limiting & Security
+slowapi==0.1.9
+
+# Utilities
+python-dateutil==2.8.2
