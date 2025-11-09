@@ -49,6 +49,7 @@ venv.bak/
 # Firebase credentials (IMPORTANT - Keep these secret!)
 firebase_credentials.json
 serviceAccountKey.json
+firebase-service-key.json
 *-firebase-adminsdk-*.json
 
 # API Keys and Secrets
