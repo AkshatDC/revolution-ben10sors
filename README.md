@@ -117,14 +117,11 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 📞 Contact
-
-For inquiries, please contact [Your Name] at [your.email@example.com]
-
 ---
 
 <div align="center">
   Made with ❤️ by the Revolution Team
 </div>
+
 
 
