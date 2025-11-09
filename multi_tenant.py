@@ -76,30 +76,7 @@ def create_organization(
         return None
 
 
-def get_organization(org_id: str) -> Optional[Dict]:
-    """Get organization details."""
-    try:
-        ref = db.reference(f'organizations/{org_id}')
-        org = ref.get()
-        return org
-    except Exception as e:
-        print(f"❌ Error fetching organization: {e}")
-        return None
 
-
-def list_organizations() -> List[Dict]:
-    """List all organizations."""
-    try:
-        ref = db.reference('organizations')
-        orgs = ref.get()
-        
-        if not orgs:
-            return []
-        
-        return list(orgs.values())
-    except Exception as e:
-        print(f"❌ Error listing organizations: {e}")
-        return []
 
 
 def update_organization_settings(org_id: str, settings: Dict) -> bool:
